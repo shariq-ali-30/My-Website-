@@ -13,7 +13,7 @@
 body, html {
     display: grid;
     place-items: center;
-    height: 80vh;
+    height: auto;
     overflowY: hidden;
     background: var(--primary-color);
 }
