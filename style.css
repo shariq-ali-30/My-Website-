@@ -13,7 +13,7 @@
 body {
     display: grid;
     place-items: center;
-    height: 100vh;
+    height: 100svh;
     background: var(--primary-color);
 }
 
