@@ -10,7 +10,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body, html {
+body {
     display: grid;
     place-items: center;
     height: 100svh;
